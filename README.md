@@ -8,17 +8,17 @@ This project applies machine learning techniques to classify iris flowers into t
 Perform exploratory data analysis (EDA) to understand the dataset.
 Use feature engineering to preprocess and scale data.
 Train and evaluate machine learning models such as:
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
-Decision Tree and Random Forest
+Logistic Regression,
+K-Nearest Neighbors (KNN),
+Support Vector Machine (SVM),
+Decision Tree and Random Forest,
 Visualize results using matplotlib and seaborn.
 
 🛠 Technologies Used--
-Python
-Jupyter Notebook
-Pandas & NumPy
-Matplotlib & Seaborn
+Python,
+Jupyter Notebook,
+Pandas & NumPy,
+Matplotlib & Seaborn,
 Scikit-learn
 
 📊 Dataset Information--
