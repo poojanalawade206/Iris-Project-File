@@ -22,10 +22,10 @@ Matplotlib & Seaborn,
 Scikit-learn
 
 📊 Dataset Information--
-Features: Sepal length, Sepal width, Petal length, Petal width
-Target: Iris species (Setosa, Versicolor, Virginica)
-Dataset Source: UCI Machine Learning Repository
+Features: Sepal length, Sepal width, Petal length, Petal width,
+Target: Iris species (Setosa, Versicolor, Virginica),
+Dataset Source: UCI Machine Learning Repository.
 
 📈 Model Performance--
-Model Accuracy: 95%+ (depending on the chosen algorithm)
+Model Accuracy: 95%+ (depending on the chosen algorithm),
 Evaluation Metrics: Accuracy, Precision, Recall, Confusion Matrix
